@@ -1,0 +1,9 @@
+Feature,Feature Type,Method,Statistic,P Value,Psi,Drift Status,Psi Status
+age,Numerical,KS Test,0.225,0.265687,1.22354,No Drift,Significant Drift
+income,Numerical,KS Test,0.175,0.5786,0.226604,No Drift,Significant Drift
+credit_score,Numerical,KS Test,0.1,0.990019,0.045815,No Drift,No Drift
+loan_amount,Numerical,KS Test,0.125,0.918805,0.197215,No Drift,Moderate Drift
+employment_years,Numerical,KS Test,0.175,0.5786,1.392906,No Drift,Significant Drift
+default,Numerical,KS Test,0.2,0.404587,0.0,No Drift,No Drift
+education,Categorical,Chi-Square Test,0.0,1.0,,No Drift,
+loan_purpose,Categorical,Chi-Square Test,0.0,1.0,,No Drift,

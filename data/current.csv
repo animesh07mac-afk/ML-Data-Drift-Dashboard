@@ -1,0 +1,41 @@
+age,income,credit_score,loan_amount,employment_years,education,loan_purpose,default
+30,52000,670,14000,4,Bachelor,personal,0
+38,88000,710,32000,10,Master,home,0
+32,44000,630,10000,5,Bachelor,auto,1
+50,115000,770,65000,18,PhD,business,0
+35,65000,690,20000,7,Bachelor,personal,0
+26,35000,600,7000,2,High School,personal,1
+42,100000,740,45000,15,Master,home,0
+33,50000,650,12000,6,Bachelor,auto,1
+58,140000,790,110000,24,Master,business,0
+30,44000,610,9000,4,Bachelor,personal,1
+45,92000,720,38000,13,Bachelor,home,1
+37,74000,680,25000,9,Master,auto,0
+52,155000,800,130000,26,PhD,business,0
+31,48000,640,11000,5,Bachelor,personal,1
+40,80000,700,28000,11,Bachelor,home,0
+27,33000,590,6000,2,High School,personal,1
+47,110000,750,58000,17,Master,business,0
+34,59000,665,18000,7,Bachelor,auto,1
+60,170000,810,150000,28,PhD,business,0
+36,69000,685,22000,8,Bachelor,personal,0
+28,39000,605,8000,3,High School,auto,1
+43,98000,730,40000,14,Master,home,0
+32,52000,655,13000,5,Bachelor,personal,1
+50,118000,760,70000,19,PhD,business,0
+39,78000,695,26000,10,Bachelor,home,0
+25,32000,585,5500,2,High School,personal,1
+46,105000,745,50000,16,Master,business,0
+35,62000,675,17000,8,Bachelor,auto,1
+55,145000,785,105000,22,PhD,business,0
+41,87000,715,34000,13,Master,home,0
+30,46000,635,11000,4,Bachelor,personal,1
+48,112000,755,62000,18,Master,business,0
+33,55000,660,15000,6,Bachelor,auto,1
+57,160000,795,125000,25,PhD,business,0
+38,75000,690,24000,9,Bachelor,home,1
+26,36000,595,7000,2,High School,personal,1
+44,102000,735,42000,14,Master,home,0
+31,49000,645,10000,5,Bachelor,personal,1
+51,125000,765,75000,20,PhD,business,0
+37,72000,682,21000,9,Bachelor,auto,0
