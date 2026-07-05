@@ -19,9 +19,9 @@ export default function Upload() {
 
     try {
       const res = await axios.post(
-        "http://127.0.0.1:5001/analyze",
-        formData
-      );
+  "https://ml-data-drift-dashboard-1.onrender.com/analyze",
+  formData
+);
 
       localStorage.setItem("driftResult", JSON.stringify(res.data));
 
